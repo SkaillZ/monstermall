@@ -1,0 +1,13 @@
+{
+"companyName": "Weebsite",
+"productName": "Monster Mall",
+"dataUrl": "MonsterMall.data.unityweb",
+"asmCodeUrl": "MonsterMall.asm.code.unityweb",
+"asmMemoryUrl": "MonsterMall.asm.memory.unityweb",
+"asmFrameworkUrl": "MonsterMall.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
